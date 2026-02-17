@@ -9,3 +9,6 @@ publishDir = "public"
     [params.homeInfoParams]
         Title = "Kairós"
         Content = "Museo privato di visioni digitali."
+
+    [params.cover]
+        linkfullImage = true
